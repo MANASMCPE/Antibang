@@ -50,10 +50,10 @@ end
 local Tab1 = Window:CreateTab("INFO 👑", 4483362458)
 Tab1:CreateLabel("MADE BY M0NK 😎")
 Tab1:CreateLabel("👑 M0NK-KING ŌF NEW LIFE 💀😈")
-Tab1:CreateLabel("ROBLOX ID-Demonking74709")
+Tab1:CreateLabel("ROBLOX ID-M0NK-LORD")
 Tab1:CreateLabel("JO LE PANGA USSE KARO NANGA?🤣")
 Tab1:CreateLabel("TOH MERE SHERO AAG LAGA DO?🔥")
-Tab1:CreateLabel("INSTAGRAM ID > demonking74700")
+Tab1:CreateLabel("INSTAGRAM ID > superslurxedits")
 
 -- TAB 2: TROLL 🌚
 local Tab2 = Window:CreateTab("TROLL 🌚", 4483362458)
